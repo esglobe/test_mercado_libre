@@ -1,10 +1,10 @@
 
 {
-'international_delivery_mode' : False, # todos nulos 'none'
+#'international_delivery_mode' : False, # todos nulos 'none'
 'title' : True,
-'site_id' : True,
+'site_id' : False,# TODOS TIENEN LA MISMA CODIFICACION MLA
 'shipping' : ['local_pick_up','free_methods','free_shipping','tags','methods','mode','dimensions'],
-'descriptions':["{'id': 'MLA4695330653-912855983'}"],
+#'descriptions':["{'id': 'MLA4695330653-912855983'}"],
 'condition': False,
 'base_price':True,
 'variations':True, #posible uso',
